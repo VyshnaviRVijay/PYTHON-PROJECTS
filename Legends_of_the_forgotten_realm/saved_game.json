@@ -1,0 +1,48 @@
+{
+    "name": "wer",
+    "class": {
+        "name": "Archer",
+        "hp": 110,
+        "mana": 80,
+        "attack": 18,
+        "defense": 3,
+        "crit_chance": 20
+    },
+    "level": 1,
+    "exp": 0,
+    "hp": 110,
+    "max_hp": 110,
+    "mana": 80,
+    "max_mana": 80,
+    "attack": 18,
+    "defense": 3,
+    "gold": 100,
+    "crit_chance": 20,
+    "crit_damage": 2,
+    "weapon": {
+        "name": "Wodden Sword",
+        "rank": "common",
+        "damage": 5,
+        "critical_bonus": 0,
+        "price": 20,
+        "required_level": 1
+    },
+    "armor": {
+        "name": "Leather Armor",
+        "rank": "common",
+        "defense": 3,
+        "price": 20,
+        "required_level": 1
+    },
+    "health_potions": 3,
+    "mana_potions": 2,
+    "enemies_defeated": 0,
+    "bosses_defeated": 0,
+    "weapons_collected": 0,
+    "rare_items_found": 0,
+    "inventory": [],
+    "potions": [],
+    "active_buffs": [],
+    "current_region": "Village",
+    "play_time_seconds": 0
+}
